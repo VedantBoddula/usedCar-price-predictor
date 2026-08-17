@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Trained ML model files
+model.pkl
+pipeline.pkl
+
+# Generated inference files
+input.csv
+output.csv
+
+# Python/OS files
+*.log
+.DS_Store
+Thumbs.db

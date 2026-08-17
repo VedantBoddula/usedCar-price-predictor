@@ -19,7 +19,7 @@ pipeline.pkl
 input.csv
 output.csv
 
-# Python/OS files
+# Python/OS file
 *.log
 .DS_Store
 Thumbs.db
